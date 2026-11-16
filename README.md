@@ -185,7 +185,7 @@ Potential features for future versions:
 ## 📧 Contact & Support
 
 - **GitHub Issues** - Report bugs or request features via GitHub Issues
-- **Email** - [adityanarain2060.an@gmail.com]
+- **Email** - [rushi2005rs@gmail.com]
 - **Website** - [https://todo-list-theta-five-42.vercel.app/]
 
 ## 🙏 Acknowledgments
@@ -194,8 +194,5 @@ Potential features for future versions:
 - Inspired by modern productivity tools
 - Thanks to the open-source community
 
----
-
-**Made with ❤️ by [Aditya Narain Singh]**
 
 *Last Updated: April 2026*
